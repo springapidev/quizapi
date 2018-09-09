@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/topjal-parent.iml" filepath="$PROJECT_DIR$/topjal-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/topjal-server/topjal-server.iml" filepath="$PROJECT_DIR$/topjal-server/topjal-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/topjal-web/topjal-web.iml" filepath="$PROJECT_DIR$/topjal-web/topjal-web.iml" />
+    </modules>
+  </component>
+</project>
